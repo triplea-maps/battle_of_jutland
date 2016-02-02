@@ -1,0 +1,8 @@
+Germans_Movement_large.png  (5200,4940)
+British_Movement_large.png  (36,1040)
+Aberdeen.png  (10,990)
+Denmark.png  (5720,1620)
+England.png  (60,3040)
+Netherlands.png  (4240,5120)
+Norway.png  (5010,370)
+Wilhelmshaven.png  (5510,5030)

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" baseProfile="full" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" zoomAndPan="magnify"
+   id="Naval_Ensign_of_the_United_Kingdom"
+   viewBox="-420 -195 840 390"
+   width="1200" height="600">
+  <defs>
+    <clipPath id="border">
+      <rect x="-420" y="-195" width="840" height="390"/>
+    </clipPath>
+  </defs>
+<rect fill="white" x="-420" y="-210" width="840" height="420"/>
+  <g transform="matrix(0.466667,0,0,0.466667,-224,-119)" clip-path="url(#border)">
+    <circle r="556" fill="#00247D"/>
+    <path d="M -504,-234 L 504,234 M -504,234 L 504,-234" stroke-width="78" stroke="white" id="diags_white"/>
+    <path d="M -504,-234 L 504,234 M -504,234 L 504,-234" stroke-width="52" stroke="#CF142B" id="diags_red"/>
+    <path stroke="none" fill="white" d="M 0,0 l 504,234 h -78 l -504,-234 M 0,0 l 504,-234 h 78 l -504,234 M 0,0 l -504,234 h -78 l 504,-234 M 0,0 l -504,-234 h 78 l 504,234" id="eraser_white"/>
+<!-- Comment: I think the above two lines give the simplest way to make the diagonals -->
+    <path d="M -420,0 H 420 M 0,-195 V 195" stroke-width="130" stroke="white" id="cross_white"/>
+    <path d="M -420,0 H 420 M 0,-195 V 195" stroke-width="78" stroke="#CF142B" id="cross_red"/>
+  </g>
+<path d="M -420,0 H 420 M 0,-210 V 210" stroke-width="56" stroke="#CF142B"/>
+</svg>

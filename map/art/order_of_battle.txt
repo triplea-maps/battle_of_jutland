@@ -1,0 +1,53 @@
+beatty:
+BB: 4
+BC: 6
+HC: zero
+LC: 13
+D: 28
+
+
+jellicoe
+BB: 24
+BC: 3
+HC: 8
+LC: 8
+D: 56
+
+
+hipper:
+BB: 
+BC: 5
+HC: 
+LC: 5
+D: 10
+TB: 20
+UB: 
+
+
+scheer
+BB: 22
+BC: 
+HC: 6
+LC: 
+D: 
+TB: 32
+UB: 
+
+
+
+
+Totals
+Grand Fleet:
+BB: 28
+BC: 9
+HC: 8
+LC: 26
+D: 78
+
+High Seas Fleet:
+BB: 22
+BC: 5
+HC: 0
+LC: 11
+D: 61
+
