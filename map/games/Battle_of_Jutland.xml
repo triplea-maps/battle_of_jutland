@@ -18388,19 +18388,19 @@
                    </attachment>-->
     <!--<attachment name="territoryAttachment" attachTo="England" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
                         <option name="production" value="0"/>
-                        <option name="isImpassible" value="true"/>
+                        <option name="isImpassable" value="true"/>
                    </attachment>
                     <attachment name="territoryAttachment" attachTo="Denmark" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
                         <option name="production" value="0"/>
-                        <option name="isImpassible" value="true"/>
+                        <option name="isImpassable" value="true"/>
                    </attachment>
                     <attachment name="territoryAttachment" attachTo="Netherlands" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
                         <option name="production" value="0"/>
-                        <option name="isImpassible" value="true"/>
+                        <option name="isImpassable" value="true"/>
                    </attachment>
                     <attachment name="territoryAttachment" attachTo="Norway" javaClass="games.strategy.triplea.attachments.TerritoryAttachment" type="territory">
                         <option name="production" value="0"/>
-                        <option name="isImpassible" value="true"/>
+                        <option name="isImpassable" value="true"/>
                    </attachment>-->
     <!-- Player Attachments -->
     <attachment name="playerAttachment" attachTo="Germans_Movement" javaClass="games.strategy.triplea.attachments.PlayerAttachment" type="player">
